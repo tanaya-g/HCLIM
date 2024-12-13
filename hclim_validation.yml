@@ -1,0 +1,34 @@
+name: hclim_validation
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - black
+  - cartopy
+  - cfgrib
+  - cftime
+  - dask
+  - flake8
+  - h5py
+  - ipykernel
+  - jupyter
+  - matplotlib
+  - netcdf4
+  - numpy
+  - pandas
+  - pip
+  - pyarrow
+  - pytest
+  - python=3.9
+  - pyyaml
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - tqdm
+  - xarray
+  - zarr
+  - aiohttp
+  - requests
+prefix: /Users/tanaya/miniconda3/envs/hclim_validation
